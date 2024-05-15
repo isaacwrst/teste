@@ -59,7 +59,5 @@ function comecaCronometro(){
     setInterval(atualizaCronometro, 1000);
 }
 
-comecaCronometrofor (let index = 0; index < array.length; index++) {
-    const element = array[index];
-    o();
+comecaCronometrofor ();
 }
