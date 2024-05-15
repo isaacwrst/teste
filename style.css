@@ -1,12 +1,12 @@
 @import url('https://fonts.googleapis.com/css2?family=Archivo+Black&family=Fraunces:ital,opsz,wght@0,9..144,100..900;1,9..144,100..900&display=swap');
 
 :root {
-    --cor-de-fundo: #011533;
-    --verde: #01968e;
+    --cor-de-fundo: #02193b;
+    --verde: #05b3aa;
     --branco: hsl(0, 0%, 80%);
     --botao-ativo: #011f7269;
     --botao-inativo: rgba(73, 67, 163, 0.979);
-    --texto-fundo: rgb(51, 38, 82);
+    --texto-fundo: rgb(29, 4, 88);
 }
 
 body {
