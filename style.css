@@ -5,14 +5,14 @@
     --verde: #01968e;
     --branco: hsl(0, 0%, 80%);
     --botao-ativo: #011f7269;
-    --botao-inativo: rgba(98, 96, 129, 0.979);
-    --texto-fundo: rgba(43, 9, 112, 0.664);
+    --botao-inativo: rgba(73, 67, 163, 0.979);
+    --texto-fundo: rgb(170, 169, 173);
 }
 
 body {
     background-color: var(--cor-de-fundo);
     color: var(--branco);
-    font-family: 'Oswald', sans-serif;
+    font-family: 'Anton', sans-serif;
 }
 
 
@@ -38,7 +38,7 @@ body {
 
 
 .botao {
-    font-family: 'Oswald', sans-serif;
+    font-family: 'Anton', sans-serif;
     background-color: var(--botao-inativo);
     color: var(--branco);
     display: flex;
