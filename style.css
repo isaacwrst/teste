@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=DM+Serif+Display:ital@0;1&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Archivo+Black&family=DM+Serif+Display:ital@0;1&display=swap');
 
 :root {
     --cor-de-fundo: #030e4a;
@@ -12,7 +12,7 @@
 body {
     background-color: var(--cor-de-fundo);
     color: var(--branco);
-    font-family: 'DM Serif Display', sans-serif;
+    font-family: 'Archivo Black', sans-serif;
 }
 
 
@@ -38,7 +38,7 @@ body {
 
 
 .botao {
-    font-family: 'DM Serif Display', sans-serif;
+    font-family: 'Archivo Black', sans-serif;
     background-color: var(--botao-inativo);
     color: var(--branco);
     display: flex;
